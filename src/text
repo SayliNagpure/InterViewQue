@@ -1,0 +1,17 @@
+Scenario #1: User Management Dashboard
+You are tasked with building a user management dashboard using React.js. The dashboard should allow administrators to view, create, update, and delete user accounts.
+
+
+Requirements:
+
+
+Implement a React component for   displaying a list of user accounts.
+Each user account should   display the following information:
+Username
+Email
+Role (admin/user)
+Implement functionality to   fetch user data from a mock API (you can use fetch or any library   like Axios).
+Implement validation for user   input fields (username, email) to ensure they are not empty and   follow a valid format.
+Implement functionality to add   a new user, update an existing user, and delete a user. These   actions should also update the UI accordingly without refreshing the   page.
+Utilize React hooks where   applicable.
+Style the dashboard using CSS   to make it visually appealing and user-friendly.

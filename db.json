@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "first_name": "Curt",
+      "last_name": "Olivello",
+      "gender": "Male",
+      "username": "colivello1",
+      "email": "colivello1@time.com",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "first_name": "Welby",
+      "last_name": "Barltrop",
+      "gender": "Male",
+      "username": "wbarltrop2",
+      "email": "wbarltrop2@etsy.com",
+      "role": "user"
+    },
+    {
+      "id": "4",
+      "first_name": "Jere",
+      "last_name": "Rickerd",
+      "gender": "Female",
+      "username": "shiv",
+      "email": "jrickerd3@simplemachines.org",
+      "role": "user"
+    },
+    {
+      "id": "5",
+      "first_name": "Kean",
+      "last_name": "Conklin",
+      "gender": "Male",
+      "username": "kconklin4",
+      "email": "kconklin4@pinterest.com",
+      "role": "user"
+    },
+    {
+      "id": "6",
+      "first_name": "Isador",
+      "last_name": "Saban",
+      "gender": "Male",
+      "username": "isaban5",
+      "email": "isaban5@netvibes.com",
+      "role": "admin"
+    },
+    {
+      "id": "7",
+      "first_name": "Ann",
+      "last_name": "Hockell",
+      "gender": "Female",
+      "username": "ahockell6",
+      "email": "ahockell6@diigo.com",
+      "role": "user"
+    },
+    {
+      "id": "8",
+      "first_name": "Gar",
+      "last_name": "Arlow",
+      "gender": "Male",
+      "username": "garlow7",
+      "email": "garlow7@wired.com",
+      "role": "user"
+    },
+    {
+      "id": "9",
+      "first_name": "Carlynn",
+      "last_name": "Seabourne",
+      "gender": "Female",
+      "username": "cseabourne8",
+      "email": "cseabourne8@usgs.gov",
+      "role": "user"
+    },
+    {
+      "id": "10",
+      "first_name": "Silvano",
+      "last_name": "Mancer",
+      "gender": "Male",
+      "username": "smancer9",
+      "email": "smancer9@xrea.com",
+      "role": "user"
+    },
+    {
+      "id": "8518",
+      "name": "Sayli Ajay Nagpure",
+      "email": "saylinagpure13@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": "2d45",
+      "name": "say",
+      "email": "say@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": "ac6a",
+      "username": "ddd",
+      "email": "dd@gmail.com",
+      "role": "user"
+    }
+  ]
+}
